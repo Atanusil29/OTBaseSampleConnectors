@@ -1,0 +1,12 @@
+<Property title="Endpoint" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Service URI" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>

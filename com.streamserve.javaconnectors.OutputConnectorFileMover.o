@@ -1,0 +1,12 @@
+<Property title="Output file" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Move on completion to" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
